@@ -2,6 +2,8 @@
 
 A professional, real-time stock tracking dashboard for the NIFTY 50 index, built with Python and Streamlit. This application combines powerful technical analysis tools with a premium, glassmorphism-inspired user interface.
 
+<img width="2558" height="1298" alt="Screenshot 2025-12-18 205732" src="https://github.com/user-attachments/assets/467dad44-6eef-4518-a076-9e4d72c7f8a8" />
+
 ## Features
 
 -   **Real-Time Market Data**: Fetches live data for all NIFTY 50 stocks using the Yahoo Finance API.
