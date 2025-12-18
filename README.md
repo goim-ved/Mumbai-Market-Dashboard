@@ -1,8 +1,8 @@
-# Mumbai Market Dashboard 📈
+# Mumbai Market Dashboard 
 
 A professional, real-time stock tracking dashboard for the NIFTY 50 index, built with Python and Streamlit. This application combines powerful technical analysis tools with a premium, glassmorphism-inspired user interface.
 
-## 🌟 Features
+## Features
 
 -   **Real-Time Market Data**: Fetches live data for all NIFTY 50 stocks using the Yahoo Finance API.
 -   **Interactive Charts**: High-performance, interactive candlestick charts powered by Plotly.
@@ -13,7 +13,7 @@ A professional, real-time stock tracking dashboard for the NIFTY 50 index, built
     -   **Responsive Layout**: Optimized for various screen sizes.
 -   **Customizable Timeframes**: flexible period and interval selection (e.g., 1D, 1W, 1M).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend**: [Streamlit](https://streamlit.io/)
 -   **Data Source**: [yfinance](https://pypi.org/project/yfinance/)
@@ -21,7 +21,7 @@ A professional, real-time stock tracking dashboard for the NIFTY 50 index, built
 -   **Data Processing**: [Pandas](https://pandas.pydata.org/) & [NumPy](https://numpy.org/)
 -   **Styling**: Custom CSS3
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1.  **Clone the repository**
     ```bash
@@ -43,7 +43,7 @@ A professional, real-time stock tracking dashboard for the NIFTY 50 index, built
     pip install -r requirements.txt
     ```
 
-## 💻 Usage
+## Usage
 
 Run the Streamlit application:
 
@@ -58,7 +58,7 @@ The dashboard will open automatically in your default web browser at `http://loc
 2.  **Adjust Timeframe**: Set your desired historical period (e.g., "1y") and interval (e.g., "1d").
 3.  **Add Indicators**: Toggle SMA or EMA checkboxes in the sidebar and adjust the window sizes to analyze trends.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 mumbai-market-dashboard/
@@ -70,10 +70,10 @@ mumbai-market-dashboard/
 └── README.md           # Project documentation
 ```
 
-## ⚠️ Note
+## Note
 
 This application uses the `yfinance` library, which provides market data that may have a slight delay. It is intended for educational and analytical purposes, not for high-frequency trading.
 
 ---
 
-Built with ❤️ for the Indian Stock Market.
+Built with ❤️ by Vedant Goim
